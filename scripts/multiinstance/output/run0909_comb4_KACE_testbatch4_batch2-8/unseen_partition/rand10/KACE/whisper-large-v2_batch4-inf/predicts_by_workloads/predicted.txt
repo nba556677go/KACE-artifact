@@ -1,0 +1,4 @@
+predictedpair: ['whisper-large-v2_batch4-inf', 'bert-base-cased_batch4-inf', 'bert-base-cased_batch4-inf', 'vit-base-patch16-224_batch4-inf']
+maxPair: ['vit-base-patch16-224_batch8-inf', 'vit-base-patch16-224_batch8-inf', 'whisper-large-v2_batch4-inf', 'vit-base-patch16-224_batch2-inf']
+predicted throughput: 79.17199130903639
+max throughput: 97.10614888024973

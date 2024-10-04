@@ -1,0 +1,4 @@
+predictedpair: ['bert-base-cased_batch8-train', 'vit-base-patch16-224_batch8-inf', 'vit-base-patch16-224_batch8-inf', 'bert-base-cased_batch8-inf']
+maxPair: ['bert-base-cased_batch8-train', 'vit-base-patch16-224_batch8-inf', 'vit-base-patch16-224_batch8-inf', 'bert-base-cased_batch8-inf']
+predicted throughput: 133.94077532678634
+max throughput: 133.94077532678634

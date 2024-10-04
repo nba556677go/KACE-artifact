@@ -1,0 +1,4 @@
+predictedpair: ['vit-base-patch16-224_batch2-inf', 'vit_h_14_batch2-train', 'vit-base-patch16-224_batch8-inf']
+maxPair: ['vit_h_14_batch2-train', 'vit-base-patch16-224_batch8-inf', 'vit-base-patch16-224_batch8-inf']
+predicted throughput: 114.9578043761073
+max throughput: 121.73546212467167

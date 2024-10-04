@@ -1,0 +1,5 @@
+testfile=/home/cc/mlProfiler/tests/mps/multiinstance/dataset/MPS100/trainratio_0.8/rand20/KACE/testing_set.csv
+trainfile=/home/cc/mlProfiler/tests/mps/multiinstance/dataset/MPS100/trainratio_0.8/rand20/KACE/training_set.csv
+model=output/run0730_KACE/trainratio_0.8/rand20/KACE/31-7-2024_01:10:00_KACE_model-corr0.0_datard20_excol.pkl
+correlation=0
+train_n_occur=0.8

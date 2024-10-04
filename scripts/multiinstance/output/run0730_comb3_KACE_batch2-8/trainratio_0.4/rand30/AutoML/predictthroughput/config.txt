@@ -1,0 +1,5 @@
+testfile=/Users/bing/Documents/mlProfiler/tests/mps/multiinstance/dataset/batch2-8/MPS100/trainratio_0.4/rand30/testing_set.csv
+trainfile=/Users/bing/Documents/mlProfiler/tests/mps/multiinstance/dataset/batch2-8/MPS100/trainratio_0.4/rand30/training_set.csv
+model=output/run0730_KACE_batch2-8/trainratio_0.4/rand30/AutoML/DeepLearning_grid_1_AutoML_1_20240801_13355_model_3
+correlation=0
+train_n_occur=0.4

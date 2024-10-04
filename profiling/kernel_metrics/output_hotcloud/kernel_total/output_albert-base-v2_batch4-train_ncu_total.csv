@@ -1,0 +1,2 @@
+Threads,Compute (SM) Throughput,DRAM Throughput,Memory Throughput,Registers,Static Shared Memory,PCIe read bandwidth,PCIe write bandwidth,Short_Kernel,avg_Thread,Long_Kernel,ave_Kernel_Length,long/short_Ratio,Type
+685983.1568651632,64.48368487776888,37.28726363229031,63.330108912994525,22368539.615330108,10949.755000511814,7.674053128347968,45.8404985272155,68.89177536231875,1001165.8452722064,431.4005479452054,144.7173925501433,0.2644927536231884,albert-base-v2_batch4-train

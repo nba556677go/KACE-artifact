@@ -1,0 +1,2 @@
+Threads,Compute (SM) Throughput,DRAM Throughput,Memory Throughput,Registers,Static Shared Memory,Type
+321403.49372387805,68.94063933472631,16.380971505511898,69.15212811160453,16463690.915910695,7439.555750717122,bert-base-cased_batch8-inf

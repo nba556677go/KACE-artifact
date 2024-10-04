@@ -1,0 +1,5 @@
+testfile=/Users/bing/Documents/mlProfiler/tests/mps/multiinstance/dataset/batch2-8/MPS100/unseen_partition/rand10/AutoML/wav2vec2-base-960h_batch8-inf/testing_set.csv
+trainfile=/Users/bing/Documents/mlProfiler/tests/mps/multiinstance/dataset/batch2-8/MPS100/unseen_partition/rand10/AutoML/wav2vec2-base-960h_batch8-inf/training_set.csv
+model=output/run0730_KACE_batch2-8/unseen_partition/rand10/AutoML/wav2vec2-base-960h_batch8-inf/DeepLearning_grid_1_AutoML_1_20240801_00421_model_5
+correlation=0
+train_n_occur=0

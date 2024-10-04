@@ -1,0 +1,10 @@
+Train Ratio	Normalized Throughput
+trainratio_0.4	1.0
+trainratio_0.8	1.0
+trainratio_0.9	1.0
+trainratio_0.3	1.0
+trainratio_0.2	1.0
+trainratio_0.5	1.0
+trainratio_0.7	1.0
+trainratio_0.6	0.9583623755868836
+trainratio_0.1	1.0

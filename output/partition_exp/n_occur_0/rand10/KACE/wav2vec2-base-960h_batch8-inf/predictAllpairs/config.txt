@@ -1,0 +1,5 @@
+testfile=/Users/bing/Documents/mlProfiler/output/dataset/MPS100/partition_exp/n_occur_0/rand10/KACE/wav2vec2-base-960h_batch8-inf/testing_set.csv
+trainfile=/Users/bing/Documents/mlProfiler/output/dataset/MPS100/partition_exp/n_occur_0/rand10/KACE/wav2vec2-base-960h_batch8-inf/training_set.csv
+model=output/partition_exp/n_occur_0/rand10/KACE/wav2vec2-base-960h_batch8-inf/14-7-2024_19:17:24_KACE_model-corr0.0_datard10_excol.pkl
+correlation=0
+train_n_occur=0

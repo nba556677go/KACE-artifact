@@ -1,0 +1,5 @@
+testfile=output/dataset/MPS100/n_occur_10/rand40/AutoML/testing_set.csv
+trainfile=output/dataset/MPS100/n_occur_10/rand40/AutoML/training_set.csv
+model=output/run0709_KACE_hotcloud/n_occur_10/rand40/AutoML/DeepLearning_grid_1_AutoML_44_20240710_72541_model_2
+correlation=0
+train_n_occur=10

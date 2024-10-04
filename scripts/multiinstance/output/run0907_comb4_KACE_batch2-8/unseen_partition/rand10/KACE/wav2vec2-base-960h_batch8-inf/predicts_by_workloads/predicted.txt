@@ -1,0 +1,4 @@
+predictedpair: ['wav2vec2-base-960h_batch8-inf', 'bert-base-cased_batch2-train', 'vit-base-patch16-224_batch8-inf', 'vit-base-patch16-224_batch8-inf']
+maxPair: ['wav2vec2-base-960h_batch8-inf', 'bert-base-cased_batch2-train', 'vit-base-patch16-224_batch8-inf', 'vit-base-patch16-224_batch8-inf']
+predicted throughput: 131.3861741937648
+max throughput: 131.3861741937648

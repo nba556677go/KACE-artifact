@@ -1,0 +1,2 @@
+Threads,Compute (SM) Throughput,DRAM Throughput,Memory Throughput,Registers,Static Shared Memory,PCIe read bandwidth,PCIe write bandwidth,Short_Kernel,avg_Thread,Long_Kernel,ave_Kernel_Length,long/short_Ratio,Type
+321403.49372387805,68.94063933472631,16.380971505511898,69.15212811160453,16463690.915910695,7439.555750717122,4.970990415291147,24.972133812000106,41.298811881188115,561325.5155279504,531.3158333333334,223.9138509316772,0.594059405940594,bert-base-cased_batch8-inf

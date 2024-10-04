@@ -1,0 +1,5 @@
+testfile=output/dataset/MPS100/n_occur_2/rand50/hotcloud/testing_set.csv
+trainfile=output/dataset/MPS100/n_occur_2/rand50/hotcloud/training_set.csv
+model=output/run0709_KACE_hotcloud/n_occur_2/rand50/hotcloud/9-7-2024_19:56:20_hotcloud_model-corr0.0_datard50_excol.pkl
+correlation=0
+train_n_occur=2

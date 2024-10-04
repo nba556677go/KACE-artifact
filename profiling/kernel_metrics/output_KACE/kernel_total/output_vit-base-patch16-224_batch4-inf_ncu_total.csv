@@ -1,0 +1,2 @@
+Threads,Compute (SM) Throughput,DRAM Throughput,Memory Throughput,Registers,Static Shared Memory,Type
+43584.56765253923,74.43039606848205,9.029113755049243,51.454481563888095,3079392.3336836253,2025.5182020959262,vit-base-patch16-224_batch4-inf

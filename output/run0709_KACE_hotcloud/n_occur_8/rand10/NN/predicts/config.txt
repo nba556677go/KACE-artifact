@@ -1,0 +1,5 @@
+testfile=output/dataset/MPS100/n_occur_8/rand10/NN/testing_set.csv
+trainfile=output/dataset/MPS100/n_occur_8/rand10/NN/training_set.csv
+model=output/run0709_KACE_hotcloud/n_occur_8/rand10/NN/10-7-2024_06:06:46_NN_model-corr0.0_datard10_excol.pkl
+correlation=0
+train_n_occur=8

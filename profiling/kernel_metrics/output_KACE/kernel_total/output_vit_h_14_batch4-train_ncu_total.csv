@@ -1,0 +1,2 @@
+Threads,Compute (SM) Throughput,DRAM Throughput,Memory Throughput,Registers,Static Shared Memory,Type
+249993.4088812463,38.64504458003054,51.44156031649653,77.65457401596062,10046342.96198479,5095.246332708615,vit_h_14_batch4-train

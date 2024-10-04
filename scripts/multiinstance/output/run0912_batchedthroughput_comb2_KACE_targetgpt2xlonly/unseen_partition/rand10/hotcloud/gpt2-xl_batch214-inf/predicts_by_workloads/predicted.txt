@@ -1,0 +1,4 @@
+predictedpair: ['gpt2-xl_batch214-inf', 'wav2vec2-base-960h_batch2-inf']
+maxPair: ['gpt2-xl_batch214-inf', 'bert-base-cased_batch16-inf']
+predicted throughput: 49.71965542129928
+max throughput: 100.19115817733109

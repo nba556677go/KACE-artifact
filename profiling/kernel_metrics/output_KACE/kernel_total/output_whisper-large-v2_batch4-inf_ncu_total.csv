@@ -1,0 +1,2 @@
+Threads,Compute (SM) Throughput,DRAM Throughput,Memory Throughput,Registers,Static Shared Memory,Type
+2428812.960946929,30.963804110653168,50.16302369534679,58.82670969280903,50940328.17181209,1033.1054901498949,whisper-large-v2_batch4-inf

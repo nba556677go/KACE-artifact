@@ -1,0 +1,5 @@
+testfile=/Users/bing/Documents/mlProfiler/tests/mps/multiinstance/dataset/comb4/batch2-8/MPS100/unseen_partition/rand10/KACE/whisper-large-v2_batch8-inf/testing_set.csv
+trainfile=/Users/bing/Documents/mlProfiler/tests/mps/multiinstance/dataset/comb4/batch2-8/MPS100/unseen_partition/rand10/KACE/whisper-large-v2_batch8-inf/training_set.csv
+model=output/run0905_comb4_KACE_batch2-8/unseen_partition/rand10/KACE/whisper-large-v2_batch8-inf/6-9-2024_10:50:51_KACE_model-corr0.0_datard10_excol.pkl
+correlation=0
+train_n_occur=0

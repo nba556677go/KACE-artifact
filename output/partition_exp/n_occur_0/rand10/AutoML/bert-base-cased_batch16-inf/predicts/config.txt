@@ -1,0 +1,5 @@
+testfile=/Users/bing/Documents/mlProfiler/output/dataset/MPS100/partition_exp/n_occur_0/rand10/AutoML/bert-base-cased_batch16-inf/testing_set.csv
+trainfile=/Users/bing/Documents/mlProfiler/output/dataset/MPS100/partition_exp/n_occur_0/rand10/AutoML/bert-base-cased_batch16-inf/training_set.csv
+model=output/partition_exp/n_occur_0/rand10/AutoML/bert-base-cased_batch16-inf/DeepLearning_grid_1_AutoML_1_20240714_193755_model_2
+correlation=0
+train_n_occur=0

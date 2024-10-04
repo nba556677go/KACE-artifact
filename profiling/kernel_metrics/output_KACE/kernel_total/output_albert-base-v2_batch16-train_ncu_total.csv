@@ -1,0 +1,2 @@
+Threads,Compute (SM) Throughput,DRAM Throughput,Memory Throughput,Registers,Static Shared Memory,Type
+4277649.00888219,50.385998213385996,52.11208358723994,82.58865975224239,92390692.05828497,25482.817460549733,albert-base-v2_batch16-train

@@ -1,0 +1,2 @@
+Threads,Compute (SM) Throughput,DRAM Throughput,Memory Throughput,Registers,Static Shared Memory,PCIe read bandwidth,PCIe write bandwidth,Short_Kernel,avg_Thread,Long_Kernel,ave_Kernel_Length,long/short_Ratio,Type
+407273.6437354477,71.71888252706013,17.28196639963645,63.66662208308519,15566445.000576952,10410.317650169076,7.800874923826927,40.96898586755094,30.858714765100608,452309.1958465532,730.4021149897334,129.1216613787137,0.1634228187919463,whisper-large-v2_batch2-inf

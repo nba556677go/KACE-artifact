@@ -1,0 +1,4 @@
+predictedpair: ['gpt2-xl_batch100-inf', 'vit-base-patch16-224_batch8-inf']
+maxPair: ['gpt2-xl_batch100-inf', 'bert-base-cased_batch16-inf']
+predicted throughput: 98.89726594585889
+max throughput: 106.13902332527104
