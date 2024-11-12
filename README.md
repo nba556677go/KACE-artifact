@@ -99,7 +99,7 @@ bash scripts/multiinstance/run_unseen_partitions.sh
 If you find this repo useful, please consider citing our paper:
 ```
 @inproceedings{KACE_2024_socc,
-author = {Bing-Shiun Han and Tathagata Paul and Zhenhua Liu and  Anshul Gandhi},
+author = {Bing-Shiun Han and Tathagata Paul and Zhenhua Liu and Anshul Gandhi},
 title = {KACE: Kernel-Aware Colocation for Efficient GPU Spatial Sharing},
 year = {2024},
 month = {nov},
