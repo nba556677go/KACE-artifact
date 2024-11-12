@@ -12,6 +12,7 @@ This is the repo for SoCC'24 paper - KACE: Kernel-Aware Colocation for Efficient
 - [predict all throughput without partitions figure 2](#predict-all-throughput-without-partitions-figure-2)
 - [predict throughput with partitions of workloads figure 3 4](#predict-throughput-with-partitions-of-workloads-figure-3-4)
 - [Predict unseen partition](#predict-unseen-partition)
+- [Citation](#citation)
 ## Abstract
 GPU spatial sharing among jobs is an effective approach to increase resource utilization and reduce the monetary and environmental costs of running deep learning workloads. While hardware support for GPU spatial sharing already exists, accurately predicting GPU interference between colocated workloads remains a concern. This makes it challenging to improve GPU utilization by sharing the GPU between workloads without severely impacting their performance. Existing approaches to identify and mitigate GPU interference often require extensive profiling and/or hardware modifications, making them difficult to deploy in practice.
 
@@ -92,4 +93,17 @@ bash scripts/multiinstance/run_train_splits.sh
 ### predict unseen partition
 ```
 bash scripts/multiinstance/run_unseen_partitions.sh
+```
+
+### citation
+If you find this repo useful, please consider citing our paper:
+```
+@inproceedings{KACE_2024_socc,
+author = {Bing-Shiun Han, Tathagata Paul, Zhenhua Liu, Anshul Gandhi},
+title = {KACE: Kernel-Aware Colocation for Efficient GPU Spatial Sharing},
+year = {2024},
+month = {nov},
+booktitle = {the 15th ACM Symposium on Cloud Computing},
+series = {SoCC '24}
+}
 ```
