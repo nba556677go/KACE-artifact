@@ -98,12 +98,21 @@ bash scripts/multiinstance/run_unseen_partitions.sh
 ### citation
 If you find this repo useful, please consider citing our paper:
 ```
-@inproceedings{KACE_2024_socc,
-author = {Bing-Shiun Han and Tathagata Paul and Zhenhua Liu and Anshul Gandhi},
+@inproceedings{10.1145/3698038.3698555,
+author = {Han, Bing-Shiun and Paul, Tathagata and Liu, Zhenhua and Gandhi, Anshul},
 title = {KACE: Kernel-Aware Colocation for Efficient GPU Spatial Sharing},
 year = {2024},
-month = {nov},
-booktitle = {the 15th ACM Symposium on Cloud Computing},
+isbn = {9798400712869},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3698038.3698555},
+doi = {10.1145/3698038.3698555},
+abstract = {GPU spatial sharing among jobs is an effective approach to increase resource utilization and reduce the monetary and environmental costs of running deep learning workloads. While hardware support for GPU spatial sharing already exists, accurately predicting GPU interference between colocated workloads remains a concern. This makes it challenging to improve GPU utilization by sharing the GPU between workloads without severely impacting their performance. Existing approaches to identify and mitigate GPU interference often require extensive profiling and/or hardware modifications, making them difficult to deploy in practice.This paper presents KACE, a lightweight, prediction-based approach to effectively colocate workloads on a given GPU. KACE adequately predicts colocation interference via exclusive kernel metrics using limited training data and minimal training time, eliminating the need for extensive online profiling of each new workload colocation. Experimental results using various training and inference workloads show that KACE outperforms existing rule-based and prediction-based policies by 16\% and 11\%, on average, respectively, and is within 10\% of the performance achieved by an offline-optimal oracle policy.},
+booktitle = {Proceedings of the ACM Symposium on Cloud Computing},
+pages = {460–469},
+numpages = {10},
+keywords = {Cloud Computing, GPU Sharing, Systems for ML},
+location = {Redmond, WA, USA},
 series = {SoCC '24}
 }
 ```
